@@ -19,9 +19,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm install -g surge
       - run: make build
-      - run: surge public guild-avatar.surge.sh --token ${{ secrets.SURGE_TOKEN }}
       
       # Upload artifact to github pages
       - name: Upload Pages artifact
