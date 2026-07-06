@@ -1,4 +1,4 @@
-guild avatar generator
+NYT Communities avatar generator
 ======================
 
 adding a frame
@@ -21,15 +21,17 @@ releases
 environments
 ------------
 - production
-  https://newsguildny.github.io/gavatar
+  https://viccro.github.io/community-avatars
 
 troubleshooting
 ---------------
-- verify the sha-1 and the timestamp at https://newsguildny.github.io/gavatarversion.txt
-- verify that the correct images are included in https://newsguildny.github.io/gavatarimages.txt
+- verify the sha-1 and the timestamp at https://viccro.github.io/community-avatars.txt
+- verify that the correct images are included in https://viccro.github.io/community-avatars.txt
 
 
 ෴෴෴෴෴෴෴෴෴
 ෴෴෴෴෴
 ෴෴෴෴
 ෴
+
+This project is built off of https://github.com/newsguildny/gavatar/, created by coolov!
